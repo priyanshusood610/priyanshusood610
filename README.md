@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Priyanshu Sood
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning VBA and advanced R
